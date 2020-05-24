@@ -3,6 +3,6 @@
   display: none
 }
 
-#wall #tag-2[background: {
+#wall #tag-2[z-index= 6] {
   display: none
 }
