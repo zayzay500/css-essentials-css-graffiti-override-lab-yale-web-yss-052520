@@ -23,4 +23,4 @@ div#wall div.parent div+div:last-child div#tag-6 {
   display: none
 }
 
-body div#wall 
+body div#wall div.parent 
