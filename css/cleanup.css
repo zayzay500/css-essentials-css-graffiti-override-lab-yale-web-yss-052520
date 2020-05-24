@@ -3,6 +3,6 @@
   display: none
 }
 
-div #wall #tag-2{
+#wall #tag-2[background: {
   display: none
 }
